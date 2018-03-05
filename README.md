@@ -1,3 +1,5 @@
+# Depreciated - We have marked this repo as read only and will not be contributing further on it. 
+
 # Airflow
 
 [![PyPI version](https://badge.fury.io/py/apache-airflow.svg)](https://badge.fury.io/py/apache-airflow)
